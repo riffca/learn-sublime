@@ -9,3 +9,6 @@
 - SublimeLinter
 - Vue Syntax Highlight
 - EditorConfig
+
+
+##[php helpers](https://mattstauffer.co/blog/sublime-text-3-for-php-developers)
