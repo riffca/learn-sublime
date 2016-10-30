@@ -12,3 +12,4 @@
 
 
 ##[php helpers](https://mattstauffer.co/blog/sublime-text-3-for-php-developers)
+##[eslint](https://habrahabr.ru/post/278747/)
